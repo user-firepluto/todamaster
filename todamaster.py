@@ -86,7 +86,7 @@ def teste_wpm(texto_referencia):
 
 
 def main():
-    url = input("URL do Toda Matéria: ")
+    url = input("URL do Toda Matéria ou InfoEscola: ")
     if "todamateria.com.br" not in url:
         print("Use um link do Toda Matéria.")
         return

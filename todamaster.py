@@ -104,5 +104,5 @@ def main():
     teste_wpm(resumo)
 
 
-if __name__ == "__todamastercli__":
+if __name__ == "__todamaster__":
     main()

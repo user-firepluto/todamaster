@@ -1,3 +1,3 @@
-chmod +x todamaster.py
-sudo cp todamaster.py /usr/local/bin
+chmod +x todamastercli
+sudo cp todamastercli /usr/local/bin
 echo "Installation Completed"
